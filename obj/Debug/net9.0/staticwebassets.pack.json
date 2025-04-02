@@ -1,35 +1,43 @@
 {
   "Files": [
     {
-      "Id": "/Users/Andre/Desktop/Development/CVGenerationSolution .Net 9/wwwroot/data.json",
-      "PackagePath": "staticwebassets/data.json"
+      "Id": "C:\\Users\\Bintd\\OneDrive\\Skrivbord\\CVGenerationSolution\\CVGenerationSolution\\wwwroot\\data.json",
+      "PackagePath": "staticwebassets\\data.json"
     },
     {
-      "Id": "/Users/Andre/Desktop/Development/CVGenerationSolution .Net 9/wwwroot/savedContent.html",
-      "PackagePath": "staticwebassets/savedContent.html"
+      "Id": "C:\\Users\\Bintd\\OneDrive\\Skrivbord\\CVGenerationSolution\\CVGenerationSolution\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
     },
     {
-      "Id": "/Users/Andre/Desktop/Development/CVGenerationSolution .Net 9/wwwroot/template.html",
-      "PackagePath": "staticwebassets/template.html"
+      "Id": "C:\\Users\\Bintd\\OneDrive\\Skrivbord\\CVGenerationSolution\\CVGenerationSolution\\wwwroot\\savedContent.html",
+      "PackagePath": "staticwebassets\\savedContent.html"
     },
     {
-      "Id": "obj/Debug/net9.0/staticwebassets/msbuild.CVGenerationSolution.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "Id": "C:\\Users\\Bintd\\OneDrive\\Skrivbord\\CVGenerationSolution\\CVGenerationSolution\\wwwroot\\style.css",
+      "PackagePath": "staticwebassets\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\Bintd\\OneDrive\\Skrivbord\\CVGenerationSolution\\CVGenerationSolution\\wwwroot\\template.html",
+      "PackagePath": "staticwebassets\\template.html"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.CVGenerationSolution.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
       "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
     },
     {
-      "Id": "obj/Debug/net9.0/staticwebassets/msbuild.CVGenerationSolution.Microsoft.AspNetCore.StaticWebAssets.props",
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.CVGenerationSolution.Microsoft.AspNetCore.StaticWebAssets.props",
       "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
     },
     {
-      "Id": "obj/Debug/net9.0/staticwebassets/msbuild.build.CVGenerationSolution.props",
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.build.CVGenerationSolution.props",
       "PackagePath": "build\\CVGenerationSolution.props"
     },
     {
-      "Id": "obj/Debug/net9.0/staticwebassets/msbuild.buildMultiTargeting.CVGenerationSolution.props",
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildMultiTargeting.CVGenerationSolution.props",
       "PackagePath": "buildMultiTargeting\\CVGenerationSolution.props"
     },
     {
-      "Id": "obj/Debug/net9.0/staticwebassets/msbuild.buildTransitive.CVGenerationSolution.props",
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildTransitive.CVGenerationSolution.props",
       "PackagePath": "buildTransitive\\CVGenerationSolution.props"
     }
   ],

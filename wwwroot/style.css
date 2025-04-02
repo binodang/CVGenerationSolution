@@ -1,0 +1,61 @@
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 20px;
+  }
+  
+  /* Container för editorn */
+  .editor-container {
+    width: 60%;
+    max-width: 900px;
+    background-color: #fff;
+    padding: 20px;
+    margin: 20px auto;
+    border-radius: 8px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  /* Rubrik i editorn */
+  .editor-container h2 {
+    text-align: center;
+    color: #333;
+  }
+  
+  /* Formulärfält och etiketter */
+  .editor-container label {
+    display: block;
+    margin-bottom: 5px;
+    font-weight: bold;
+    color: #555;
+  }
+  
+  .editor-container input,
+  .editor-container textarea {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 15px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  /* Styling för förhandsvisningsområdet */
+  .preview-container {
+    width: 100%;
+    max-width: 900px;
+    margin: 20px auto;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  /* Gör iframe responsiv */
+  .preview-container iframe {
+    width: 100%;
+    height: auto;
+    border: none;
+  }
+  

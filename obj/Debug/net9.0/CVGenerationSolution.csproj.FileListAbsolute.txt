@@ -39,3 +39,46 @@
 /Users/Andre/Desktop/Development/CVGenerationSolution .Net 9/obj/Debug/net9.0/CVGenerationSolution.pdb
 /Users/Andre/Desktop/Development/CVGenerationSolution .Net 9/obj/Debug/net9.0/CVGenerationSolution.genruntimeconfig.cache
 /Users/Andre/Desktop/Development/CVGenerationSolution .Net 9/obj/Debug/net9.0/ref/CVGenerationSolution.dll
+C:\Users\Bintd\OneDrive\Skrivbord\CVGenerationSolution\CVGenerationSolution\bin\Debug\net9.0\appsettings.json
+C:\Users\Bintd\OneDrive\Skrivbord\CVGenerationSolution\CVGenerationSolution\bin\Debug\net9.0\CVGenerationSolution.staticwebassets.runtime.json
+C:\Users\Bintd\OneDrive\Skrivbord\CVGenerationSolution\CVGenerationSolution\bin\Debug\net9.0\CVGenerationSolution.staticwebassets.endpoints.json
+C:\Users\Bintd\OneDrive\Skrivbord\CVGenerationSolution\CVGenerationSolution\bin\Debug\net9.0\CVGenerationSolution.exe
+C:\Users\Bintd\OneDrive\Skrivbord\CVGenerationSolution\CVGenerationSolution\bin\Debug\net9.0\CVGenerationSolution.deps.json
+C:\Users\Bintd\OneDrive\Skrivbord\CVGenerationSolution\CVGenerationSolution\bin\Debug\net9.0\CVGenerationSolution.runtimeconfig.json
+C:\Users\Bintd\OneDrive\Skrivbord\CVGenerationSolution\CVGenerationSolution\bin\Debug\net9.0\CVGenerationSolution.dll
+C:\Users\Bintd\OneDrive\Skrivbord\CVGenerationSolution\CVGenerationSolution\bin\Debug\net9.0\CVGenerationSolution.pdb
+C:\Users\Bintd\OneDrive\Skrivbord\CVGenerationSolution\CVGenerationSolution\bin\Debug\net9.0\DinkToPdf.dll
+C:\Users\Bintd\OneDrive\Skrivbord\CVGenerationSolution\CVGenerationSolution\bin\Debug\net9.0\DocumentFormat.OpenXml.dll
+C:\Users\Bintd\OneDrive\Skrivbord\CVGenerationSolution\CVGenerationSolution\bin\Debug\net9.0\DocumentFormat.OpenXml.Framework.dll
+C:\Users\Bintd\OneDrive\Skrivbord\CVGenerationSolution\CVGenerationSolution\bin\Debug\net9.0\Newtonsoft.Json.dll
+C:\Users\Bintd\OneDrive\Skrivbord\CVGenerationSolution\CVGenerationSolution\bin\Debug\net9.0\System.IO.Packaging.dll
+C:\Users\Bintd\OneDrive\Skrivbord\CVGenerationSolution\CVGenerationSolution\obj\Debug\net9.0\CVGenerationSolution.csproj.AssemblyReference.cache
+C:\Users\Bintd\OneDrive\Skrivbord\CVGenerationSolution\CVGenerationSolution\obj\Debug\net9.0\CVGenerationSolution.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bintd\OneDrive\Skrivbord\CVGenerationSolution\CVGenerationSolution\obj\Debug\net9.0\CVGenerationSolution.AssemblyInfoInputs.cache
+C:\Users\Bintd\OneDrive\Skrivbord\CVGenerationSolution\CVGenerationSolution\obj\Debug\net9.0\CVGenerationSolution.AssemblyInfo.cs
+C:\Users\Bintd\OneDrive\Skrivbord\CVGenerationSolution\CVGenerationSolution\obj\Debug\net9.0\CVGenerationSolution.csproj.CoreCompileInputs.cache
+C:\Users\Bintd\OneDrive\Skrivbord\CVGenerationSolution\CVGenerationSolution\obj\Debug\net9.0\CVGenerationSolution.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Bintd\OneDrive\Skrivbord\CVGenerationSolution\CVGenerationSolution\obj\Debug\net9.0\CVGenerationSolution.RazorAssemblyInfo.cache
+C:\Users\Bintd\OneDrive\Skrivbord\CVGenerationSolution\CVGenerationSolution\obj\Debug\net9.0\CVGenerationSolution.RazorAssemblyInfo.cs
+C:\Users\Bintd\OneDrive\Skrivbord\CVGenerationSolution\CVGenerationSolution\obj\Debug\net9.0\CVGenerationSolution.sourcelink.json
+C:\Users\Bintd\OneDrive\Skrivbord\CVGenerationSolution\CVGenerationSolution\obj\Debug\net9.0\scopedcss\bundle\CVGenerationSolution.styles.css
+C:\Users\Bintd\OneDrive\Skrivbord\CVGenerationSolution\CVGenerationSolution\obj\Debug\net9.0\compressed\ugqkxfv3k8-2g4dx4fljk.gz
+C:\Users\Bintd\OneDrive\Skrivbord\CVGenerationSolution\CVGenerationSolution\obj\Debug\net9.0\compressed\nik1wlxtcq-5ipweew5fc.gz
+C:\Users\Bintd\OneDrive\Skrivbord\CVGenerationSolution\CVGenerationSolution\obj\Debug\net9.0\compressed\9nzrcaremc-57kgk47g54.gz
+C:\Users\Bintd\OneDrive\Skrivbord\CVGenerationSolution\CVGenerationSolution\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\Bintd\OneDrive\Skrivbord\CVGenerationSolution\CVGenerationSolution\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\Bintd\OneDrive\Skrivbord\CVGenerationSolution\CVGenerationSolution\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\Bintd\OneDrive\Skrivbord\CVGenerationSolution\CVGenerationSolution\obj\Debug\net9.0\staticwebassets\msbuild.CVGenerationSolution.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Bintd\OneDrive\Skrivbord\CVGenerationSolution\CVGenerationSolution\obj\Debug\net9.0\staticwebassets\msbuild.CVGenerationSolution.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\Bintd\OneDrive\Skrivbord\CVGenerationSolution\CVGenerationSolution\obj\Debug\net9.0\staticwebassets\msbuild.build.CVGenerationSolution.props
+C:\Users\Bintd\OneDrive\Skrivbord\CVGenerationSolution\CVGenerationSolution\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.CVGenerationSolution.props
+C:\Users\Bintd\OneDrive\Skrivbord\CVGenerationSolution\CVGenerationSolution\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.CVGenerationSolution.props
+C:\Users\Bintd\OneDrive\Skrivbord\CVGenerationSolution\CVGenerationSolution\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\Bintd\OneDrive\Skrivbord\CVGenerationSolution\CVGenerationSolution\obj\Debug\net9.0\CVGenera.D1995001.Up2Date
+C:\Users\Bintd\OneDrive\Skrivbord\CVGenerationSolution\CVGenerationSolution\obj\Debug\net9.0\CVGenerationSolution.dll
+C:\Users\Bintd\OneDrive\Skrivbord\CVGenerationSolution\CVGenerationSolution\obj\Debug\net9.0\refint\CVGenerationSolution.dll
+C:\Users\Bintd\OneDrive\Skrivbord\CVGenerationSolution\CVGenerationSolution\obj\Debug\net9.0\CVGenerationSolution.pdb
+C:\Users\Bintd\OneDrive\Skrivbord\CVGenerationSolution\CVGenerationSolution\obj\Debug\net9.0\CVGenerationSolution.genruntimeconfig.cache
+C:\Users\Bintd\OneDrive\Skrivbord\CVGenerationSolution\CVGenerationSolution\obj\Debug\net9.0\ref\CVGenerationSolution.dll
+C:\Users\Bintd\OneDrive\Skrivbord\CVGenerationSolution\CVGenerationSolution\obj\Debug\net9.0\compressed\w3alp5jblb-v524cwhk55.gz
+C:\Users\Bintd\OneDrive\Skrivbord\CVGenerationSolution\CVGenerationSolution\obj\Debug\net9.0\compressed\829cng4fa3-naeomiab8f.gz

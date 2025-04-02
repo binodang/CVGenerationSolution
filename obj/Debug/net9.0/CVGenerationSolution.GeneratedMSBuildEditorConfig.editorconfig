@@ -9,17 +9,17 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = CVGenerationSolution
 build_property.RootNamespace = CVGenerationSolution
-build_property.ProjectDir = /Users/Andre/Desktop/Development/CVGenerationSolution .Net 9/
+build_property.ProjectDir = C:\Users\Bintd\OneDrive\Skrivbord\CVGenerationSolution\CVGenerationSolution\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 9.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = /Users/Andre/Desktop/Development/CVGenerationSolution .Net 9
+build_property.MSBuildProjectDirectory = C:\Users\Bintd\OneDrive\Skrivbord\CVGenerationSolution\CVGenerationSolution
 build_property._RazorSourceGeneratorDebug = 
 build_property.EffectiveAnalysisLevelStyle = 9.0
 build_property.EnableCodeStyleSeverity = 
 
-[/Users/Andre/Desktop/Development/CVGenerationSolution .Net 9/Views/Editor/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRWRpdG9yL0luZGV4LmNzaHRtbA==
+[C:/Users/Bintd/OneDrive/Skrivbord/CVGenerationSolution/CVGenerationSolution/Views/Editor/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRWRpdG9yXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
