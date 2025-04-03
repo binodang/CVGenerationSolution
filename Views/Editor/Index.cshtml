@@ -1,135 +1,176 @@
+@{
+    Layout = null;
+}
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <title>Resume Editor</title>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Resume Editor</title>
 
-    <!-- Include TinyMCE -->
-    <script src="https://cdn.tiny.cloud/1/bkh9da1e4ot71d119ox7eizyepvfia7ly0zpvxes4vseukfd/tinymce/6/tinymce.min.js" referrerpolicy="origin"></script>
+  <!-- Include TinyMCE -->
+  <script src="https://cdn.tiny.cloud/1/bkh9da1e4ot71d119ox7eizyepvfia7ly0zpvxes4vseukfd/tinymce/6/tinymce.min.js" referrerpolicy="origin"></script>
 
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            background: #f4f4f4;
-            display: flex;
-            flex-direction: column;
-            align-items: center;
-            justify-content: center;
-            min-height: 100vh;
-            padding: 20px;
-            margin: 0;
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background: #f4f4f4;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      min-height: 100vh;
+      padding: 20px;
+      margin: 0;
+    }
+    .editor-container {
+      width: 60%;
+      max-width: 900px;
+      background: white;
+      padding: 20px;
+      box-shadow: 0px 0px 10px rgba(0,0,0,0.1);
+      border-radius: 8px;
+      margin-bottom: 20px;
+    }
+    .editor-container label {
+      font-weight: bold;
+    }
+    .editor-container input,
+    .editor-container textarea {
+      width: 100%;
+      padding: 10px;
+      margin-bottom: 10px;
+      font-size: 16px;
+      border: 1px solid #ccc;
+      border-radius: 4px;
+    }
+    .preview-container {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      width: 100%;
+    }
+    iframe {
+      width: 210mm;
+      height: 297mm;
+      border: none;
+      background: white;
+      box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+    }
+    button {
+      padding: 10px 20px;
+      font-size: 16px;
+      cursor: pointer;
+    }
+  </style>
+
+  <script>
+    // Initialize TinyMCE
+    tinymce.init({
+      selector: 'textarea.tinymce',
+      menubar: false,
+      plugins: 'lists link',
+      toolbar: 'bold italic | bullist numlist | link',
+      height: 150,
+      setup: function(editor) {
+        editor.on('input', updatePreview);
+        editor.on('change', updatePreview);
+      }
+    });
+
+    function updatePreview() {
+      var iframe = document.getElementById('previewIframe').contentWindow.document;
+      
+      // Hämta värden från inmatningsfälten
+      var name = document.getElementById('name').value;
+      var address = document.getElementById('address').value;
+      var phone = document.getElementById('phone').value;
+      var email = document.getElementById('email').value;
+      var about = tinymce.get("about").getContent();
+      var skills = document.getElementById('skills').value.split(',')
+                     .map(function(skill) { return '<li>' + skill.trim() + '</li>'; })
+                     .join('');
+      var projects = tinymce.get("projects").getContent();
+      
+      // Uppdatera innehållet i iframen (förhandsvisningen)
+      iframe.getElementById('name').innerText = name;
+      iframe.getElementById('address').innerText = address;
+      iframe.getElementById('phone').innerText = phone;
+      iframe.getElementById('email').innerText = email;
+      iframe.getElementById('about').innerHTML = about;
+      iframe.getElementById('skills').innerHTML = skills;
+      iframe.getElementById('projects').innerHTML = projects;
+    }
+
+    document.addEventListener('input', updatePreview);
+
+    // Spara alla fält via POST (JSON-format)
+    function saveContent() {
+      var data = {
+        name: document.getElementById('name').value,
+        address: document.getElementById('address').value,
+        phone: document.getElementById('phone').value,
+        email: document.getElementById('email').value,
+        about: tinymce.get("about").getContent(),
+        skills: document.getElementById('skills').value.split(',').map(function(skill){ return skill.trim(); }),
+        projects: tinymce.get("projects").getContent()
+      };
+
+      fetch('/Editor/Save', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify(data)
+      })
+      .then(function(response) {
+        if(response.ok) {
+          alert("Content saved!");
+        } else {
+          alert("Error saving content.");
         }
-
-        .editor-container {
-            width: 60%;
-            max-width: 900px;
-            background: white;
-            padding: 20px;
-            box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
-            border-radius: 8px;
-            margin-bottom: 20px;
-        }
-
-        .editor-container label {
-            font-weight: bold;
-        }
-
-        .editor-container input, 
-        .editor-container textarea {
-            width: 100%;
-            padding: 10px;
-            margin-bottom: 10px;
-            font-size: 16px;
-            border: 1px solid #ccc;
-            border-radius: 4px;
-        }
-
-        .preview-container {
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            width: 100%;
-        }
-
-        iframe {
-            width: 210mm;
-            height: 297mm;
-            border: none;
-            background: white;
-            box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);
-        }
-    </style>
-
-    <script>
-        // Initialize TinyMCE
-        tinymce.init({
-            selector: 'textarea.tinymce',
-            menubar: false,
-            plugins: 'lists link',
-            toolbar: 'bold italic | bullist numlist | link',
-            height: 150,
-            setup: function (editor) {
-                editor.on('input', updatePreview);
-                editor.on('change', updatePreview);
-            }
-        });
-
-        function updatePreview() {
-            var iframe = document.getElementById('previewIframe').contentWindow.document;
-
-            // Get input values
-            var name = document.getElementById('name').value;
-            var address = document.getElementById('address').value;
-            var phone = document.getElementById('phone').value;
-            var email = document.getElementById('email').value;
-            var about = tinymce.get("about").getContent();
-            var skills = document.getElementById('skills').value.split(',').map(skill => `<li>${skill.trim()}</li>`).join('');
-            var projects = tinymce.get("projects").getContent();
-
-            // Update iframe content
-            iframe.getElementById('name').innerText = name;
-            iframe.getElementById('address').innerText = address;
-            iframe.getElementById('phone').innerText = phone;
-            iframe.getElementById('email').innerText = email;
-            iframe.getElementById('about').innerHTML = about;
-            iframe.getElementById('skills').innerHTML = skills;
-            iframe.getElementById('projects').innerHTML = projects;
-        }
-
-        document.addEventListener('input', updatePreview);
-    </script>
+      })
+      .catch(function(error) {
+        console.error("Save failed:", error);
+      });
+    }
+    
+    // När iframen laddat, kör updatePreview
+    window.addEventListener('DOMContentLoaded', function() {
+      var iframe = document.getElementById('previewIframe');
+      iframe.addEventListener('load', updatePreview);
+    });
+  </script>
 </head>
 <body>
+  <div class="editor-container">
+    <h2>Resume Editor</h2>
+    <label for="name">Name:</label>
+    <input type="text" id="name" placeholder="Enter Name" />
 
-    <div class="editor-container">
-        <h2>Resume Editor</h2>
-        <label for="name">Name:</label>
-        <input type="text" id="name" placeholder="Enter Name" oninput="updatePreview()" />
+    <label for="address">Address:</label>
+    <input type="text" id="address" placeholder="Enter Address" />
 
-        <label for="address">Address:</label>
-        <input type="text" id="address" placeholder="Enter Address" oninput="updatePreview()" />
+    <label for="phone">Phone:</label>
+    <input type="text" id="phone" placeholder="Enter Phone" />
 
-        <label for="phone">Phone:</label>
-        <input type="text" id="phone" placeholder="Enter Phone" oninput="updatePreview()" />
+    <label for="email">Email:</label>
+    <input type="email" id="email" placeholder="Enter Email" />
 
-        <label for="email">Email:</label>
-        <input type="email" id="email" placeholder="Enter Email" oninput="updatePreview()" />
+    <label for="about">About:</label>
+    <textarea id="about" class="tinymce"></textarea>
 
-        <label for="about">About:</label>
-        <textarea id="about" class="tinymce"></textarea>
+    <label for="skills">Skills (comma-separated):</label>
+    <input type="text" id="skills" placeholder="e.g., Java, C#, HTML" />
 
-        <label for="skills">Skills (comma-separated):</label>
-        <input type="text" id="skills" placeholder="e.g., Java, C#, HTML" oninput="updatePreview()" />
+    <label for="projects">Projects:</label>
+    <textarea id="projects" class="tinymce"></textarea>
 
-        <label for="projects">Projects:</label>
-        <textarea id="projects" class="tinymce"></textarea>
-    </div>
+    <!-- Save-knapp -->
+    <button onclick="saveContent()">Save</button>
+  </div>
 
-    <div class="preview-container">
-        <iframe id="previewIframe" src="/template.html"></iframe>
-    </div>
-
+  <div class="preview-container">
+    <!-- Här visas template.html i en iframe -->
+    <iframe id="previewIframe" src="/template.html"></iframe>
+  </div>
 </body>
 </html>
-

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "Z8xLOp40IJzQXey8raRlz4duJSNZfp29DXUheZ5TOTU=",
+  "Hash": "7erEnpej3+jNddc8GHZ91onJm1SRhiONqV1bOapqZWI=",
   "Source": "CVGenerationSolution",
   "BasePath": "_content/CVGenerationSolution",
   "Mode": "Default",
@@ -17,33 +17,12 @@
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\Bintd\\OneDrive\\Skrivbord\\CVGenerationSolution\\CVGenerationSolution\\obj\\Debug\\net9.0\\compressed\\829cng4fa3-naeomiab8f.gz",
+      "Identity": "C:\\Users\\Bintd\\OneDrive\\Skrivbord\\CVGenerationSolution\\CVGenerationSolution\\obj\\Debug\\net9.0\\compressed\\9nzrcaremc-16aubcdsao.gz",
       "SourceId": "CVGenerationSolution",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Bintd\\OneDrive\\Skrivbord\\CVGenerationSolution\\CVGenerationSolution\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/CVGenerationSolution",
-      "RelativePath": "style#[.{fingerprint=naeomiab8f}]?.css.gz",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\Bintd\\OneDrive\\Skrivbord\\CVGenerationSolution\\CVGenerationSolution\\wwwroot\\style.css",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "Fingerprint": "x51yujy3at",
-      "Integrity": "ZSTc+6Lj7UB59J07UTQyQF6R3wYugWT72PclZERAvmA=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Bintd\\OneDrive\\Skrivbord\\CVGenerationSolution\\CVGenerationSolution\\wwwroot\\style.css"
-    },
-    {
-      "Identity": "C:\\Users\\Bintd\\OneDrive\\Skrivbord\\CVGenerationSolution\\CVGenerationSolution\\obj\\Debug\\net9.0\\compressed\\9nzrcaremc-57kgk47g54.gz",
-      "SourceId": "CVGenerationSolution",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Bintd\\OneDrive\\Skrivbord\\CVGenerationSolution\\CVGenerationSolution\\obj\\Debug\\net9.0\\compressed\\",
-      "BasePath": "_content/CVGenerationSolution",
-      "RelativePath": "template#[.{fingerprint=57kgk47g54}]?.html.gz",
+      "RelativePath": "template#[.{fingerprint=16aubcdsao}]?.html.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -52,8 +31,8 @@
       "RelatedAsset": "C:\\Users\\Bintd\\OneDrive\\Skrivbord\\CVGenerationSolution\\CVGenerationSolution\\wwwroot\\template.html",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "ajkxbywnge",
-      "Integrity": "NlntaSlgV9EoMk6P2a6BKE3V/nWA7r7r5xnkINU4gW0=",
+      "Fingerprint": "abajh4btm3",
+      "Integrity": "9uuQ1Zv0wzIouAtBd6ykhbm+NXyvswro86BnrfjwOT8=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\Bintd\\OneDrive\\Skrivbord\\CVGenerationSolution\\CVGenerationSolution\\wwwroot\\template.html"
@@ -80,12 +59,12 @@
       "OriginalItemSpec": "C:\\Users\\Bintd\\OneDrive\\Skrivbord\\CVGenerationSolution\\CVGenerationSolution\\wwwroot\\savedContent.html"
     },
     {
-      "Identity": "C:\\Users\\Bintd\\OneDrive\\Skrivbord\\CVGenerationSolution\\CVGenerationSolution\\obj\\Debug\\net9.0\\compressed\\ugqkxfv3k8-2g4dx4fljk.gz",
+      "Identity": "C:\\Users\\Bintd\\OneDrive\\Skrivbord\\CVGenerationSolution\\CVGenerationSolution\\obj\\Debug\\net9.0\\compressed\\ugqkxfv3k8-zsgwtv4jme.gz",
       "SourceId": "CVGenerationSolution",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Bintd\\OneDrive\\Skrivbord\\CVGenerationSolution\\CVGenerationSolution\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/CVGenerationSolution",
-      "RelativePath": "data#[.{fingerprint=2g4dx4fljk}]?.json.gz",
+      "RelativePath": "data#[.{fingerprint=zsgwtv4jme}]?.json.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -94,32 +73,11 @@
       "RelatedAsset": "C:\\Users\\Bintd\\OneDrive\\Skrivbord\\CVGenerationSolution\\CVGenerationSolution\\wwwroot\\data.json",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "c1u1cuvw8z",
-      "Integrity": "UAJT+BdVsgF68zjfi+Ox0M1crkN0IqPBGa3z6JV2usw=",
+      "Fingerprint": "3uqiybw0nu",
+      "Integrity": "W8b6oA6FTG0Hl4ALYOAmNoYBxL9pyxsOY6vn2MdAfmE=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\Bintd\\OneDrive\\Skrivbord\\CVGenerationSolution\\CVGenerationSolution\\wwwroot\\data.json"
-    },
-    {
-      "Identity": "C:\\Users\\Bintd\\OneDrive\\Skrivbord\\CVGenerationSolution\\CVGenerationSolution\\obj\\Debug\\net9.0\\compressed\\w3alp5jblb-v524cwhk55.gz",
-      "SourceId": "CVGenerationSolution",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Bintd\\OneDrive\\Skrivbord\\CVGenerationSolution\\CVGenerationSolution\\obj\\Debug\\net9.0\\compressed\\",
-      "BasePath": "_content/CVGenerationSolution",
-      "RelativePath": "index#[.{fingerprint=v524cwhk55}]?.html.gz",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\Bintd\\OneDrive\\Skrivbord\\CVGenerationSolution\\CVGenerationSolution\\wwwroot\\index.html",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "Fingerprint": "uju84lj44o",
-      "Integrity": "qnRHDLWp050a/m5QfTJb4mmYPGDHMKevlz32ItAclnM=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Bintd\\OneDrive\\Skrivbord\\CVGenerationSolution\\CVGenerationSolution\\wwwroot\\index.html"
     },
     {
       "Identity": "C:\\Users\\Bintd\\OneDrive\\Skrivbord\\CVGenerationSolution\\CVGenerationSolution\\wwwroot\\data.json",
@@ -136,32 +94,11 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "2g4dx4fljk",
-      "Integrity": "wtgh5jSceeMqNQlHFKMLqDJEQoFQadT2r1TWNrAPIvM=",
+      "Fingerprint": "zsgwtv4jme",
+      "Integrity": "7cn+mgqRgYydtMS0AgJ/t6vQVEjJdcRDhdsVvnCanZs=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\data.json"
-    },
-    {
-      "Identity": "C:\\Users\\Bintd\\OneDrive\\Skrivbord\\CVGenerationSolution\\CVGenerationSolution\\wwwroot\\index.html",
-      "SourceId": "CVGenerationSolution",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Bintd\\OneDrive\\Skrivbord\\CVGenerationSolution\\CVGenerationSolution\\wwwroot\\",
-      "BasePath": "_content/CVGenerationSolution",
-      "RelativePath": "index#[.{fingerprint}]?.html",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "v524cwhk55",
-      "Integrity": "8/8wGVDb21cWn2pipqVtB1ivNWMGaFsMbgBeVQ+jnoE=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\index.html"
     },
     {
       "Identity": "C:\\Users\\Bintd\\OneDrive\\Skrivbord\\CVGenerationSolution\\CVGenerationSolution\\wwwroot\\savedContent.html",
@@ -185,27 +122,6 @@
       "OriginalItemSpec": "wwwroot\\savedContent.html"
     },
     {
-      "Identity": "C:\\Users\\Bintd\\OneDrive\\Skrivbord\\CVGenerationSolution\\CVGenerationSolution\\wwwroot\\style.css",
-      "SourceId": "CVGenerationSolution",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Bintd\\OneDrive\\Skrivbord\\CVGenerationSolution\\CVGenerationSolution\\wwwroot\\",
-      "BasePath": "_content/CVGenerationSolution",
-      "RelativePath": "style#[.{fingerprint}]?.css",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "naeomiab8f",
-      "Integrity": "oeOjaV5LwQr/g5odRF7TKbpea4T1kIAR8BlHJrA9E+8=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\style.css"
-    },
-    {
       "Identity": "C:\\Users\\Bintd\\OneDrive\\Skrivbord\\CVGenerationSolution\\CVGenerationSolution\\wwwroot\\template.html",
       "SourceId": "CVGenerationSolution",
       "SourceType": "Discovered",
@@ -220,8 +136,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "57kgk47g54",
-      "Integrity": "QV55NFcD9bcokQgize4DdgLW/LaWSp7Eua7UXXd6ndw=",
+      "Fingerprint": "16aubcdsao",
+      "Integrity": "BwakvFDLs8qQxMU1C4OLDxMwr8W8bbh+3sr+AQJrXwk=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\template.html"
@@ -229,13 +145,13 @@
   ],
   "Endpoints": [
     {
-      "Route": "data.2g4dx4fljk.json",
-      "AssetFile": "C:\\Users\\Bintd\\OneDrive\\Skrivbord\\CVGenerationSolution\\CVGenerationSolution\\obj\\Debug\\net9.0\\compressed\\ugqkxfv3k8-2g4dx4fljk.gz",
+      "Route": "data.json",
+      "AssetFile": "C:\\Users\\Bintd\\OneDrive\\Skrivbord\\CVGenerationSolution\\CVGenerationSolution\\obj\\Debug\\net9.0\\compressed\\ugqkxfv3k8-zsgwtv4jme.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.002680965147"
+          "Quality": "0.002475247525"
         }
       ],
       "ResponseHeaders": [
@@ -245,19 +161,19 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "372"
+          "Value": "403"
         },
         {
           "Name": "ETag",
-          "Value": "\"UAJT+BdVsgF68zjfi+Ox0M1crkN0IqPBGa3z6JV2usw=\""
+          "Value": "\"W8b6oA6FTG0Hl4ALYOAmNoYBxL9pyxsOY6vn2MdAfmE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 02 Apr 2025 12:57:14 GMT"
+          "Value": "Thu, 03 Apr 2025 16:33:54 GMT"
         },
         {
           "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
+          "Value": "no-cache"
         },
         {
           "Name": "Content-Encoding",
@@ -273,26 +189,18 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"wtgh5jSceeMqNQlHFKMLqDJEQoFQadT2r1TWNrAPIvM=\""
+          "Value": "W/\"7cn+mgqRgYydtMS0AgJ/t6vQVEjJdcRDhdsVvnCanZs=\""
         }
       ],
       "EndpointProperties": [
         {
-          "Name": "fingerprint",
-          "Value": "2g4dx4fljk"
-        },
-        {
-          "Name": "label",
-          "Value": "data.json"
-        },
-        {
           "Name": "integrity",
-          "Value": "sha256-wtgh5jSceeMqNQlHFKMLqDJEQoFQadT2r1TWNrAPIvM="
+          "Value": "sha256-7cn+mgqRgYydtMS0AgJ/t6vQVEjJdcRDhdsVvnCanZs="
         }
       ]
     },
     {
-      "Route": "data.2g4dx4fljk.json",
+      "Route": "data.json",
       "AssetFile": "C:\\Users\\Bintd\\OneDrive\\Skrivbord\\CVGenerationSolution\\CVGenerationSolution\\wwwroot\\data.json",
       "Selectors": [],
       "ResponseHeaders": [
@@ -302,7 +210,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "636"
+          "Value": "653"
         },
         {
           "Name": "Content-Type",
@@ -310,11 +218,156 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"wtgh5jSceeMqNQlHFKMLqDJEQoFQadT2r1TWNrAPIvM=\""
+          "Value": "\"7cn+mgqRgYydtMS0AgJ/t6vQVEjJdcRDhdsVvnCanZs=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 02 Apr 2025 12:57:14 GMT"
+          "Value": "Thu, 03 Apr 2025 16:33:54 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-7cn+mgqRgYydtMS0AgJ/t6vQVEjJdcRDhdsVvnCanZs="
+        }
+      ]
+    },
+    {
+      "Route": "data.json.gz",
+      "AssetFile": "C:\\Users\\Bintd\\OneDrive\\Skrivbord\\CVGenerationSolution\\CVGenerationSolution\\obj\\Debug\\net9.0\\compressed\\ugqkxfv3k8-zsgwtv4jme.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "403"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"W8b6oA6FTG0Hl4ALYOAmNoYBxL9pyxsOY6vn2MdAfmE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 03 Apr 2025 16:33:54 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-W8b6oA6FTG0Hl4ALYOAmNoYBxL9pyxsOY6vn2MdAfmE="
+        }
+      ]
+    },
+    {
+      "Route": "data.zsgwtv4jme.json",
+      "AssetFile": "C:\\Users\\Bintd\\OneDrive\\Skrivbord\\CVGenerationSolution\\CVGenerationSolution\\obj\\Debug\\net9.0\\compressed\\ugqkxfv3k8-zsgwtv4jme.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.002475247525"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "403"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"W8b6oA6FTG0Hl4ALYOAmNoYBxL9pyxsOY6vn2MdAfmE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 03 Apr 2025 16:33:54 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"7cn+mgqRgYydtMS0AgJ/t6vQVEjJdcRDhdsVvnCanZs=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "zsgwtv4jme"
+        },
+        {
+          "Name": "label",
+          "Value": "data.json"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-7cn+mgqRgYydtMS0AgJ/t6vQVEjJdcRDhdsVvnCanZs="
+        }
+      ]
+    },
+    {
+      "Route": "data.zsgwtv4jme.json",
+      "AssetFile": "C:\\Users\\Bintd\\OneDrive\\Skrivbord\\CVGenerationSolution\\CVGenerationSolution\\wwwroot\\data.json",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "653"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"7cn+mgqRgYydtMS0AgJ/t6vQVEjJdcRDhdsVvnCanZs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 03 Apr 2025 16:33:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -324,7 +377,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "2g4dx4fljk"
+          "Value": "zsgwtv4jme"
         },
         {
           "Name": "label",
@@ -332,13 +385,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-wtgh5jSceeMqNQlHFKMLqDJEQoFQadT2r1TWNrAPIvM="
+          "Value": "sha256-7cn+mgqRgYydtMS0AgJ/t6vQVEjJdcRDhdsVvnCanZs="
         }
       ]
     },
     {
-      "Route": "data.2g4dx4fljk.json.gz",
-      "AssetFile": "C:\\Users\\Bintd\\OneDrive\\Skrivbord\\CVGenerationSolution\\CVGenerationSolution\\obj\\Debug\\net9.0\\compressed\\ugqkxfv3k8-2g4dx4fljk.gz",
+      "Route": "data.zsgwtv4jme.json.gz",
+      "AssetFile": "C:\\Users\\Bintd\\OneDrive\\Skrivbord\\CVGenerationSolution\\CVGenerationSolution\\obj\\Debug\\net9.0\\compressed\\ugqkxfv3k8-zsgwtv4jme.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -347,7 +400,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "372"
+          "Value": "403"
         },
         {
           "Name": "Content-Type",
@@ -355,11 +408,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"UAJT+BdVsgF68zjfi+Ox0M1crkN0IqPBGa3z6JV2usw=\""
+          "Value": "\"W8b6oA6FTG0Hl4ALYOAmNoYBxL9pyxsOY6vn2MdAfmE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 02 Apr 2025 12:57:14 GMT"
+          "Value": "Thu, 03 Apr 2025 16:33:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -377,7 +430,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "2g4dx4fljk"
+          "Value": "zsgwtv4jme"
         },
         {
           "Name": "label",
@@ -385,442 +438,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-UAJT+BdVsgF68zjfi+Ox0M1crkN0IqPBGa3z6JV2usw="
-        }
-      ]
-    },
-    {
-      "Route": "data.json",
-      "AssetFile": "C:\\Users\\Bintd\\OneDrive\\Skrivbord\\CVGenerationSolution\\CVGenerationSolution\\obj\\Debug\\net9.0\\compressed\\ugqkxfv3k8-2g4dx4fljk.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.002680965147"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "372"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"UAJT+BdVsgF68zjfi+Ox0M1crkN0IqPBGa3z6JV2usw=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 02 Apr 2025 12:57:14 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/json"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"wtgh5jSceeMqNQlHFKMLqDJEQoFQadT2r1TWNrAPIvM=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-wtgh5jSceeMqNQlHFKMLqDJEQoFQadT2r1TWNrAPIvM="
-        }
-      ]
-    },
-    {
-      "Route": "data.json",
-      "AssetFile": "C:\\Users\\Bintd\\OneDrive\\Skrivbord\\CVGenerationSolution\\CVGenerationSolution\\wwwroot\\data.json",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "636"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/json"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"wtgh5jSceeMqNQlHFKMLqDJEQoFQadT2r1TWNrAPIvM=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 02 Apr 2025 12:57:14 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-wtgh5jSceeMqNQlHFKMLqDJEQoFQadT2r1TWNrAPIvM="
-        }
-      ]
-    },
-    {
-      "Route": "data.json.gz",
-      "AssetFile": "C:\\Users\\Bintd\\OneDrive\\Skrivbord\\CVGenerationSolution\\CVGenerationSolution\\obj\\Debug\\net9.0\\compressed\\ugqkxfv3k8-2g4dx4fljk.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "372"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/json"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"UAJT+BdVsgF68zjfi+Ox0M1crkN0IqPBGa3z6JV2usw=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 02 Apr 2025 12:57:14 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-UAJT+BdVsgF68zjfi+Ox0M1crkN0IqPBGa3z6JV2usw="
-        }
-      ]
-    },
-    {
-      "Route": "index.html",
-      "AssetFile": "C:\\Users\\Bintd\\OneDrive\\Skrivbord\\CVGenerationSolution\\CVGenerationSolution\\obj\\Debug\\net9.0\\compressed\\w3alp5jblb-v524cwhk55.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000957854406"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1043"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"qnRHDLWp050a/m5QfTJb4mmYPGDHMKevlz32ItAclnM=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 02 Apr 2025 14:26:53 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/html"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"8/8wGVDb21cWn2pipqVtB1ivNWMGaFsMbgBeVQ+jnoE=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-8/8wGVDb21cWn2pipqVtB1ivNWMGaFsMbgBeVQ+jnoE="
-        }
-      ]
-    },
-    {
-      "Route": "index.html",
-      "AssetFile": "C:\\Users\\Bintd\\OneDrive\\Skrivbord\\CVGenerationSolution\\CVGenerationSolution\\wwwroot\\index.html",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "2749"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/html"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"8/8wGVDb21cWn2pipqVtB1ivNWMGaFsMbgBeVQ+jnoE=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 02 Apr 2025 14:26:53 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-8/8wGVDb21cWn2pipqVtB1ivNWMGaFsMbgBeVQ+jnoE="
-        }
-      ]
-    },
-    {
-      "Route": "index.html.gz",
-      "AssetFile": "C:\\Users\\Bintd\\OneDrive\\Skrivbord\\CVGenerationSolution\\CVGenerationSolution\\obj\\Debug\\net9.0\\compressed\\w3alp5jblb-v524cwhk55.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1043"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/html"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"qnRHDLWp050a/m5QfTJb4mmYPGDHMKevlz32ItAclnM=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 02 Apr 2025 14:26:53 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-qnRHDLWp050a/m5QfTJb4mmYPGDHMKevlz32ItAclnM="
-        }
-      ]
-    },
-    {
-      "Route": "index.v524cwhk55.html",
-      "AssetFile": "C:\\Users\\Bintd\\OneDrive\\Skrivbord\\CVGenerationSolution\\CVGenerationSolution\\obj\\Debug\\net9.0\\compressed\\w3alp5jblb-v524cwhk55.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000957854406"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1043"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"qnRHDLWp050a/m5QfTJb4mmYPGDHMKevlz32ItAclnM=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 02 Apr 2025 14:26:53 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/html"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"8/8wGVDb21cWn2pipqVtB1ivNWMGaFsMbgBeVQ+jnoE=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "v524cwhk55"
-        },
-        {
-          "Name": "label",
-          "Value": "index.html"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-8/8wGVDb21cWn2pipqVtB1ivNWMGaFsMbgBeVQ+jnoE="
-        }
-      ]
-    },
-    {
-      "Route": "index.v524cwhk55.html",
-      "AssetFile": "C:\\Users\\Bintd\\OneDrive\\Skrivbord\\CVGenerationSolution\\CVGenerationSolution\\wwwroot\\index.html",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "2749"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/html"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"8/8wGVDb21cWn2pipqVtB1ivNWMGaFsMbgBeVQ+jnoE=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 02 Apr 2025 14:26:53 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "v524cwhk55"
-        },
-        {
-          "Name": "label",
-          "Value": "index.html"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-8/8wGVDb21cWn2pipqVtB1ivNWMGaFsMbgBeVQ+jnoE="
-        }
-      ]
-    },
-    {
-      "Route": "index.v524cwhk55.html.gz",
-      "AssetFile": "C:\\Users\\Bintd\\OneDrive\\Skrivbord\\CVGenerationSolution\\CVGenerationSolution\\obj\\Debug\\net9.0\\compressed\\w3alp5jblb-v524cwhk55.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1043"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/html"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"qnRHDLWp050a/m5QfTJb4mmYPGDHMKevlz32ItAclnM=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 02 Apr 2025 14:26:53 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "v524cwhk55"
-        },
-        {
-          "Name": "label",
-          "Value": "index.html.gz"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-qnRHDLWp050a/m5QfTJb4mmYPGDHMKevlz32ItAclnM="
+          "Value": "sha256-W8b6oA6FTG0Hl4ALYOAmNoYBxL9pyxsOY6vn2MdAfmE="
         }
       ]
     },
@@ -1123,13 +741,13 @@
       ]
     },
     {
-      "Route": "style.css",
-      "AssetFile": "C:\\Users\\Bintd\\OneDrive\\Skrivbord\\CVGenerationSolution\\CVGenerationSolution\\obj\\Debug\\net9.0\\compressed\\829cng4fa3-naeomiab8f.gz",
+      "Route": "template.16aubcdsao.html",
+      "AssetFile": "C:\\Users\\Bintd\\OneDrive\\Skrivbord\\CVGenerationSolution\\CVGenerationSolution\\obj\\Debug\\net9.0\\compressed\\9nzrcaremc-16aubcdsao.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.002087682672"
+          "Quality": "0.001091703057"
         }
       ],
       "ResponseHeaders": [
@@ -1139,313 +757,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "478"
+          "Value": "915"
         },
         {
           "Name": "ETag",
-          "Value": "\"ZSTc+6Lj7UB59J07UTQyQF6R3wYugWT72PclZERAvmA=\""
+          "Value": "\"9uuQ1Zv0wzIouAtBd6ykhbm+NXyvswro86BnrfjwOT8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 02 Apr 2025 14:17:08 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"oeOjaV5LwQr/g5odRF7TKbpea4T1kIAR8BlHJrA9E+8=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-oeOjaV5LwQr/g5odRF7TKbpea4T1kIAR8BlHJrA9E+8="
-        }
-      ]
-    },
-    {
-      "Route": "style.css",
-      "AssetFile": "C:\\Users\\Bintd\\OneDrive\\Skrivbord\\CVGenerationSolution\\CVGenerationSolution\\wwwroot\\style.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1247"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"oeOjaV5LwQr/g5odRF7TKbpea4T1kIAR8BlHJrA9E+8=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 02 Apr 2025 14:17:08 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-oeOjaV5LwQr/g5odRF7TKbpea4T1kIAR8BlHJrA9E+8="
-        }
-      ]
-    },
-    {
-      "Route": "style.css.gz",
-      "AssetFile": "C:\\Users\\Bintd\\OneDrive\\Skrivbord\\CVGenerationSolution\\CVGenerationSolution\\obj\\Debug\\net9.0\\compressed\\829cng4fa3-naeomiab8f.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "478"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"ZSTc+6Lj7UB59J07UTQyQF6R3wYugWT72PclZERAvmA=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 02 Apr 2025 14:17:08 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-ZSTc+6Lj7UB59J07UTQyQF6R3wYugWT72PclZERAvmA="
-        }
-      ]
-    },
-    {
-      "Route": "style.naeomiab8f.css",
-      "AssetFile": "C:\\Users\\Bintd\\OneDrive\\Skrivbord\\CVGenerationSolution\\CVGenerationSolution\\obj\\Debug\\net9.0\\compressed\\829cng4fa3-naeomiab8f.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.002087682672"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "478"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"ZSTc+6Lj7UB59J07UTQyQF6R3wYugWT72PclZERAvmA=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 02 Apr 2025 14:17:08 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"oeOjaV5LwQr/g5odRF7TKbpea4T1kIAR8BlHJrA9E+8=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "naeomiab8f"
-        },
-        {
-          "Name": "label",
-          "Value": "style.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-oeOjaV5LwQr/g5odRF7TKbpea4T1kIAR8BlHJrA9E+8="
-        }
-      ]
-    },
-    {
-      "Route": "style.naeomiab8f.css",
-      "AssetFile": "C:\\Users\\Bintd\\OneDrive\\Skrivbord\\CVGenerationSolution\\CVGenerationSolution\\wwwroot\\style.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1247"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"oeOjaV5LwQr/g5odRF7TKbpea4T1kIAR8BlHJrA9E+8=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 02 Apr 2025 14:17:08 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "naeomiab8f"
-        },
-        {
-          "Name": "label",
-          "Value": "style.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-oeOjaV5LwQr/g5odRF7TKbpea4T1kIAR8BlHJrA9E+8="
-        }
-      ]
-    },
-    {
-      "Route": "style.naeomiab8f.css.gz",
-      "AssetFile": "C:\\Users\\Bintd\\OneDrive\\Skrivbord\\CVGenerationSolution\\CVGenerationSolution\\obj\\Debug\\net9.0\\compressed\\829cng4fa3-naeomiab8f.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "478"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"ZSTc+6Lj7UB59J07UTQyQF6R3wYugWT72PclZERAvmA=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 02 Apr 2025 14:17:08 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "naeomiab8f"
-        },
-        {
-          "Name": "label",
-          "Value": "style.css.gz"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-ZSTc+6Lj7UB59J07UTQyQF6R3wYugWT72PclZERAvmA="
-        }
-      ]
-    },
-    {
-      "Route": "template.57kgk47g54.html",
-      "AssetFile": "C:\\Users\\Bintd\\OneDrive\\Skrivbord\\CVGenerationSolution\\CVGenerationSolution\\obj\\Debug\\net9.0\\compressed\\9nzrcaremc-57kgk47g54.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.001088139282"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "918"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"NlntaSlgV9EoMk6P2a6BKE3V/nWA7r7r5xnkINU4gW0=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 02 Apr 2025 12:57:14 GMT"
+          "Value": "Thu, 03 Apr 2025 16:39:31 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1465,13 +785,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"QV55NFcD9bcokQgize4DdgLW/LaWSp7Eua7UXXd6ndw=\""
+          "Value": "W/\"BwakvFDLs8qQxMU1C4OLDxMwr8W8bbh+3sr+AQJrXwk=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "57kgk47g54"
+          "Value": "16aubcdsao"
         },
         {
           "Name": "label",
@@ -1479,12 +799,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-QV55NFcD9bcokQgize4DdgLW/LaWSp7Eua7UXXd6ndw="
+          "Value": "sha256-BwakvFDLs8qQxMU1C4OLDxMwr8W8bbh+3sr+AQJrXwk="
         }
       ]
     },
     {
-      "Route": "template.57kgk47g54.html",
+      "Route": "template.16aubcdsao.html",
       "AssetFile": "C:\\Users\\Bintd\\OneDrive\\Skrivbord\\CVGenerationSolution\\CVGenerationSolution\\wwwroot\\template.html",
       "Selectors": [],
       "ResponseHeaders": [
@@ -1494,7 +814,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "3089"
+          "Value": "3065"
         },
         {
           "Name": "Content-Type",
@@ -1502,11 +822,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"QV55NFcD9bcokQgize4DdgLW/LaWSp7Eua7UXXd6ndw=\""
+          "Value": "\"BwakvFDLs8qQxMU1C4OLDxMwr8W8bbh+3sr+AQJrXwk=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 02 Apr 2025 12:57:14 GMT"
+          "Value": "Thu, 03 Apr 2025 16:39:31 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1516,7 +836,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "57kgk47g54"
+          "Value": "16aubcdsao"
         },
         {
           "Name": "label",
@@ -1524,13 +844,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-QV55NFcD9bcokQgize4DdgLW/LaWSp7Eua7UXXd6ndw="
+          "Value": "sha256-BwakvFDLs8qQxMU1C4OLDxMwr8W8bbh+3sr+AQJrXwk="
         }
       ]
     },
     {
-      "Route": "template.57kgk47g54.html.gz",
-      "AssetFile": "C:\\Users\\Bintd\\OneDrive\\Skrivbord\\CVGenerationSolution\\CVGenerationSolution\\obj\\Debug\\net9.0\\compressed\\9nzrcaremc-57kgk47g54.gz",
+      "Route": "template.16aubcdsao.html.gz",
+      "AssetFile": "C:\\Users\\Bintd\\OneDrive\\Skrivbord\\CVGenerationSolution\\CVGenerationSolution\\obj\\Debug\\net9.0\\compressed\\9nzrcaremc-16aubcdsao.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1539,7 +859,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "918"
+          "Value": "915"
         },
         {
           "Name": "Content-Type",
@@ -1547,11 +867,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"NlntaSlgV9EoMk6P2a6BKE3V/nWA7r7r5xnkINU4gW0=\""
+          "Value": "\"9uuQ1Zv0wzIouAtBd6ykhbm+NXyvswro86BnrfjwOT8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 02 Apr 2025 12:57:14 GMT"
+          "Value": "Thu, 03 Apr 2025 16:39:31 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1569,7 +889,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "57kgk47g54"
+          "Value": "16aubcdsao"
         },
         {
           "Name": "label",
@@ -1577,18 +897,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-NlntaSlgV9EoMk6P2a6BKE3V/nWA7r7r5xnkINU4gW0="
+          "Value": "sha256-9uuQ1Zv0wzIouAtBd6ykhbm+NXyvswro86BnrfjwOT8="
         }
       ]
     },
     {
       "Route": "template.html",
-      "AssetFile": "C:\\Users\\Bintd\\OneDrive\\Skrivbord\\CVGenerationSolution\\CVGenerationSolution\\obj\\Debug\\net9.0\\compressed\\9nzrcaremc-57kgk47g54.gz",
+      "AssetFile": "C:\\Users\\Bintd\\OneDrive\\Skrivbord\\CVGenerationSolution\\CVGenerationSolution\\obj\\Debug\\net9.0\\compressed\\9nzrcaremc-16aubcdsao.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.001088139282"
+          "Quality": "0.001091703057"
         }
       ],
       "ResponseHeaders": [
@@ -1598,15 +918,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "918"
+          "Value": "915"
         },
         {
           "Name": "ETag",
-          "Value": "\"NlntaSlgV9EoMk6P2a6BKE3V/nWA7r7r5xnkINU4gW0=\""
+          "Value": "\"9uuQ1Zv0wzIouAtBd6ykhbm+NXyvswro86BnrfjwOT8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 02 Apr 2025 12:57:14 GMT"
+          "Value": "Thu, 03 Apr 2025 16:39:31 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1626,13 +946,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"QV55NFcD9bcokQgize4DdgLW/LaWSp7Eua7UXXd6ndw=\""
+          "Value": "W/\"BwakvFDLs8qQxMU1C4OLDxMwr8W8bbh+3sr+AQJrXwk=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-QV55NFcD9bcokQgize4DdgLW/LaWSp7Eua7UXXd6ndw="
+          "Value": "sha256-BwakvFDLs8qQxMU1C4OLDxMwr8W8bbh+3sr+AQJrXwk="
         }
       ]
     },
@@ -1647,7 +967,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "3089"
+          "Value": "3065"
         },
         {
           "Name": "Content-Type",
@@ -1655,11 +975,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"QV55NFcD9bcokQgize4DdgLW/LaWSp7Eua7UXXd6ndw=\""
+          "Value": "\"BwakvFDLs8qQxMU1C4OLDxMwr8W8bbh+3sr+AQJrXwk=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 02 Apr 2025 12:57:14 GMT"
+          "Value": "Thu, 03 Apr 2025 16:39:31 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1669,13 +989,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-QV55NFcD9bcokQgize4DdgLW/LaWSp7Eua7UXXd6ndw="
+          "Value": "sha256-BwakvFDLs8qQxMU1C4OLDxMwr8W8bbh+3sr+AQJrXwk="
         }
       ]
     },
     {
       "Route": "template.html.gz",
-      "AssetFile": "C:\\Users\\Bintd\\OneDrive\\Skrivbord\\CVGenerationSolution\\CVGenerationSolution\\obj\\Debug\\net9.0\\compressed\\9nzrcaremc-57kgk47g54.gz",
+      "AssetFile": "C:\\Users\\Bintd\\OneDrive\\Skrivbord\\CVGenerationSolution\\CVGenerationSolution\\obj\\Debug\\net9.0\\compressed\\9nzrcaremc-16aubcdsao.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1684,7 +1004,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "918"
+          "Value": "915"
         },
         {
           "Name": "Content-Type",
@@ -1692,11 +1012,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"NlntaSlgV9EoMk6P2a6BKE3V/nWA7r7r5xnkINU4gW0=\""
+          "Value": "\"9uuQ1Zv0wzIouAtBd6ykhbm+NXyvswro86BnrfjwOT8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 02 Apr 2025 12:57:14 GMT"
+          "Value": "Thu, 03 Apr 2025 16:39:31 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1714,7 +1034,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-NlntaSlgV9EoMk6P2a6BKE3V/nWA7r7r5xnkINU4gW0="
+          "Value": "sha256-9uuQ1Zv0wzIouAtBd6ykhbm+NXyvswro86BnrfjwOT8="
         }
       ]
     }

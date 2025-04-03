@@ -1,20 +1,20 @@
 {
-    "name": "Kristian Veem",
-    "address": "Stockholm, 111 24 Sweden",
-    "phone": "0709-969 220",
-    "email": "kristian@skillbased.se",
-    "skills": [
-      "Business development", 
-      "Business transformation", 
-      "Business strategy"
-    ],
-    "projects": [
-      {
-        "title": "Strategic Advisor, Senior Requirement Analyst",
-        "company": "Länsförsäkringar AB",
-        "dates": "2022-10 - 2024-04",
-        "description": "Strategic advisor in a transformation program to automate processes for accounting, financial and regulatory reporting throughout the group."
-      }
-    ]
-  }
-  
+  "name": "Kristian Veem",
+  "address": "Stockholm, 111 24 Sweden",
+  "phone": "0709-969 220",
+  "email": "kristian@skillbased.se",
+  "about": "Jag är en duktig utvecklare med erfarenhet inom webbteknik.",
+  "skills": [
+    "Business development", 
+    "Business transformation", 
+    "Business strategy"
+  ],
+  "projects": [
+    {
+      "title": "Strategic Advisor, Senior Requirement Analyst",
+      "company": "Länsförsäkringar AB",
+      "dates": "2022-10 - 2024-04",
+      "description": "Strategic advisor in a transformation program to automate processes for accounting, financial and regulatory reporting."
+    }
+  ]
+}

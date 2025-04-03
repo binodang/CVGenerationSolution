@@ -5,16 +5,8 @@
       "PackagePath": "staticwebassets\\data.json"
     },
     {
-      "Id": "C:\\Users\\Bintd\\OneDrive\\Skrivbord\\CVGenerationSolution\\CVGenerationSolution\\wwwroot\\index.html",
-      "PackagePath": "staticwebassets\\index.html"
-    },
-    {
       "Id": "C:\\Users\\Bintd\\OneDrive\\Skrivbord\\CVGenerationSolution\\CVGenerationSolution\\wwwroot\\savedContent.html",
       "PackagePath": "staticwebassets\\savedContent.html"
-    },
-    {
-      "Id": "C:\\Users\\Bintd\\OneDrive\\Skrivbord\\CVGenerationSolution\\CVGenerationSolution\\wwwroot\\style.css",
-      "PackagePath": "staticwebassets\\style.css"
     },
     {
       "Id": "C:\\Users\\Bintd\\OneDrive\\Skrivbord\\CVGenerationSolution\\CVGenerationSolution\\wwwroot\\template.html",

@@ -62,9 +62,7 @@ C:\Users\Bintd\OneDrive\Skrivbord\CVGenerationSolution\CVGenerationSolution\obj\
 C:\Users\Bintd\OneDrive\Skrivbord\CVGenerationSolution\CVGenerationSolution\obj\Debug\net9.0\CVGenerationSolution.RazorAssemblyInfo.cs
 C:\Users\Bintd\OneDrive\Skrivbord\CVGenerationSolution\CVGenerationSolution\obj\Debug\net9.0\CVGenerationSolution.sourcelink.json
 C:\Users\Bintd\OneDrive\Skrivbord\CVGenerationSolution\CVGenerationSolution\obj\Debug\net9.0\scopedcss\bundle\CVGenerationSolution.styles.css
-C:\Users\Bintd\OneDrive\Skrivbord\CVGenerationSolution\CVGenerationSolution\obj\Debug\net9.0\compressed\ugqkxfv3k8-2g4dx4fljk.gz
 C:\Users\Bintd\OneDrive\Skrivbord\CVGenerationSolution\CVGenerationSolution\obj\Debug\net9.0\compressed\nik1wlxtcq-5ipweew5fc.gz
-C:\Users\Bintd\OneDrive\Skrivbord\CVGenerationSolution\CVGenerationSolution\obj\Debug\net9.0\compressed\9nzrcaremc-57kgk47g54.gz
 C:\Users\Bintd\OneDrive\Skrivbord\CVGenerationSolution\CVGenerationSolution\obj\Debug\net9.0\staticwebassets.build.json
 C:\Users\Bintd\OneDrive\Skrivbord\CVGenerationSolution\CVGenerationSolution\obj\Debug\net9.0\staticwebassets.development.json
 C:\Users\Bintd\OneDrive\Skrivbord\CVGenerationSolution\CVGenerationSolution\obj\Debug\net9.0\staticwebassets.build.endpoints.json
@@ -80,5 +78,5 @@ C:\Users\Bintd\OneDrive\Skrivbord\CVGenerationSolution\CVGenerationSolution\obj\
 C:\Users\Bintd\OneDrive\Skrivbord\CVGenerationSolution\CVGenerationSolution\obj\Debug\net9.0\CVGenerationSolution.pdb
 C:\Users\Bintd\OneDrive\Skrivbord\CVGenerationSolution\CVGenerationSolution\obj\Debug\net9.0\CVGenerationSolution.genruntimeconfig.cache
 C:\Users\Bintd\OneDrive\Skrivbord\CVGenerationSolution\CVGenerationSolution\obj\Debug\net9.0\ref\CVGenerationSolution.dll
-C:\Users\Bintd\OneDrive\Skrivbord\CVGenerationSolution\CVGenerationSolution\obj\Debug\net9.0\compressed\w3alp5jblb-v524cwhk55.gz
-C:\Users\Bintd\OneDrive\Skrivbord\CVGenerationSolution\CVGenerationSolution\obj\Debug\net9.0\compressed\829cng4fa3-naeomiab8f.gz
+C:\Users\Bintd\OneDrive\Skrivbord\CVGenerationSolution\CVGenerationSolution\obj\Debug\net9.0\compressed\ugqkxfv3k8-zsgwtv4jme.gz
+C:\Users\Bintd\OneDrive\Skrivbord\CVGenerationSolution\CVGenerationSolution\obj\Debug\net9.0\compressed\9nzrcaremc-16aubcdsao.gz
